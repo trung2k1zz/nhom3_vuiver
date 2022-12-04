@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>HLML5 input elements</title>
+</head>
+<body>
+<p><b>Bài 13.</b></p>
+
+<form action="" method="Post">
+    <table align="left" border="0" cellspacing="0">
+       <tr>
+         <td><p>Name:</p></td>
+       </tr>
+       <tr>
+        <td><input type="text" required="required" /></td>
+       </tr>
+       <tr>
+         <td><p>Telephone Number:</p></td>
+       </tr>
+       <tr>
+        <td><input type="text" required="required" /></td>
+       </tr>
+       <tr>
+       <td><p>Email:</p></td>
+       </tr>
+       <tr>
+        <td><input type="text" required="required" /></td>
+       </tr>
+       <tr>
+         <td><p>Favorite Color:<p></td>
+       </tr>
+       <tr>
+         <td><input type="Color" value="" /></td>
+       </tr>
+       <tr>
+         <td><p>Date of Birth:<p></td>
+       </tr>
+       <tr>
+         <td><input type="date" name="txtDate" value="" /></td>
+       </tr>
+  
+    </table>
+</form>
+
+</body>
+</html>
